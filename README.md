@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bri4nh0" alt="bri4nh0" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.js, Next.js**
+- 🌱 I’m currently learning **React, Node.js, Next.js, and Express**
 
 - 💬 Ask me about **Front-End**
 
