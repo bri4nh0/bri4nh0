@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-End**
 
-- 📫 How to reach me **hobrian71@gmail.com**
+- 📫 How to reach me **hobrian71@gmail.com** (Let's collaborate!)
 <a href ="https://www.linkedin.com/in/brianho0408/">LinkedIn</a>
 
 <p align="left">
