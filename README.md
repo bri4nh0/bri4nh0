@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Next.js, Express, SQL, and CRUD**
 
-- 💬 Ask me about **Front-End**
+- 💬 Ask me about **Front-End and Back-End**
 
 - 📫 How to reach me **hobrian71@gmail.com** 
 <a href ="https://www.linkedin.com/in/brianho0408/">LinkedIn</a>
